@@ -113,3 +113,10 @@ h1 {
     animation:fade 3000ms infinite;
     -webkit-animation:fade 3000ms infinite;
 }
+
+.navbar-wrapper {
+    margin-top: 10px;
+}
+.navbar-static-top {
+  border-radius: 4px;
+}
